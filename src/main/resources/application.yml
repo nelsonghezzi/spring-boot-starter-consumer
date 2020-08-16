@@ -1,0 +1,6 @@
+eventstarter:
+  enabled: true
+  publisher:
+    log-time: true
+    prop-a: asd
+    prop-b: 123
